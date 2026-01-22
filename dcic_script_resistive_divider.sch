@@ -23,7 +23,7 @@ N 200 -340 200 -300 {lab=#net1}
 N 200 -240 200 -200 {lab=#net2}
 N 340 -140 340 -120 {lab=vss}
 N 200 -120 340 -120 {lab=vss}
-C {devices/title.sym} 160 -30 0 0 {name=l5 author="Julian Schwarz / k11904977"}
+C {devices/title.sym} 160 -30 0 0 {name=l5 author="(c) 2026 Julian Schwarz, Apache-2.0 license"}
 C {sg13g2_pr/rhigh.sym} 200 -470 0 0 {name=R1
 w=0.5e-6
 l=5e-6

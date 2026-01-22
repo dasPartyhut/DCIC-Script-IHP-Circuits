@@ -59,7 +59,7 @@ N 940 -280 940 -120 {lab=vss}
 N 930 -280 940 -280 {lab=vss}
 N 860 -280 860 -120 {lab=vss}
 N 700 -120 860 -120 {lab=vss}
-C {devices/title.sym} 160 -30 0 0 {name=l5 author="Julian Schwarz / k11904977"}
+C {devices/title.sym} 160 -30 0 0 {name=l5 author="(c) 2026 Julian Schwarz, Apache-2.0 license"}
 C {sg13g2_pr/sg13_lv_nmos.sym} 320 -330 0 1 {name=M1
 l=1u
 w=8u

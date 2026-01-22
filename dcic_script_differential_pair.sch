@@ -28,7 +28,7 @@ N 360 -140 360 -120 {lab=VSS}
 N 160 -120 360 -120 {lab=VSS}
 N 360 -120 500 -120 {lab=VSS}
 N 500 -120 560 -120 {lab=VSS}
-C {devices/title.sym} 160 -30 0 0 {name=l5 author="Julian Schwarz / k11904977"}
+C {devices/title.sym} 160 -30 0 0 {name=l5 author="(c) 2026 Julian Schwarz, Apache-2.0 license"}
 C {ipin.sym} 160 -370 0 0 {name=p4 lab=VINP}
 C {ipin.sym} 580 -370 0 1 {name=p5 lab=VINN}
 C {opin.sym} 500 -440 3 0 {name=p2 lab=IOUTP}
